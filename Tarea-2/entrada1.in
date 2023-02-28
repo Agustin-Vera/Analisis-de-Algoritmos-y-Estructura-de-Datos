@@ -1,0 +1,26 @@
+\documentclass{article}
+\begin{document}
+   \begin{center}
+       \Large{Estructuras de datos}
+   \end{center}
+    Estructuras de datos es una disciplina con los/as profesionales en informática deben estar familiarizados/as. 
+    \par
+    Algunos temas que se tratan son:
+    \begin{enumerate}
+    \item Listas enlazadas - $fundamental$
+    \begin{itemize}
+        \item Simplemente enlazada
+        \item Simplemente enlazada circular
+        \item Doblemente enlazada
+        \item Doblemente enlazada circular
+    \end{itemize}
+    \item Pilas y colas  - $fundamental$
+    \item Grafos  - $avanzado$
+    \item Árboles  - $avanzado$
+    \begin{itemize}
+        \item Generales
+        \item Binarios y de Búsqueda
+        \item AVL
+    \end{itemize}
+    \end{enumerate}
+\end{document}

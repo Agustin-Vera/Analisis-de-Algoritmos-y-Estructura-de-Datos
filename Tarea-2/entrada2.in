@@ -1,0 +1,46 @@
+\documentclass{article}
+\begin{document}
+    \begin{center}
+        \section {El arte moderno y el arte contemporáneo}
+    \end{center}
+    El arte moderno y el contemporáneo son movimientos artísticos que, si bien 
+    comparten cualidades entre sí, conceptualmente son distintos.
+    \newline 
+    \begin{center}
+    Palabras clave - $Arte$, $Arte$ $moderno$, $Arte$ $contemporáneo$
+    \end{center}
+    \subsection{Índice}
+    \begin{center}
+    Los siguientes son los temas a tratar en el documento:
+    \end{center}
+    \begin{enumerate}
+        \item El arte moderno
+        \item El arte contemporáneo
+        \item Artistas destacados
+    \end{enumerate}
+    \subsection{El arte moderno}
+    El $arte$ $moderno$ se relaciona con el movimiento artístico experimental que busca la innovación
+    y representación de la función del arte.
+    \subsection{El arte contemporáneo}
+    El $arte$ $contemporáneo$ se centra en la idea de que cualquier cosa puede ser arte, pues se vincula 
+    al concepto que representa más que la "calidad artística".
+    \subsection{Artistas destacados}
+    Algunos de los artistas destacados
+    \newline
+    \begin{center}
+        Del arte moderno:
+    \end{center}
+    \begin{itemize}
+        \item Pablo Picasso
+        \item Claude Monet
+        \item Gustav Klimt
+    \end{itemize}
+    \begin{center}
+        Del arte contemporáneo:
+    \end{center}
+    \begin{itemize}
+        \item Jean-Michel Basquiat
+        \item Yayoi Kusama
+        \item Takashi Murakami
+    \end{itemize}
+\end{document}
